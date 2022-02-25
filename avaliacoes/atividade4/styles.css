@@ -1,20 +1,14 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  background-color: rgb(109, 214, 109);
+}
 
-  background:black;
-}
-p {
-  font-family: fantasy;
-  color: rgb(100, 0, 0);
-}
-h1{
-  color: rgb(150, 0, 0);
-  font-family:fantasy ;
-}
 ul {
-  color: rgb(150, 0, 200);
+  background-color: lightblue;
 }
- {
-  color: rgb(100, 0, 0);
-}
-h2 {
-  color: rgb(100, 0, 0);
+
+p {
+  background-color: rgb(207, 207, 144);
 }
